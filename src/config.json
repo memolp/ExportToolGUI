@@ -1,0 +1,22 @@
+{
+    "local": {}, 
+    "export": [
+        {
+            "export_btn": "\u6b63\u5f0f\u5bfc\u51fa", 
+            "export_data": {}
+        }, 
+        {
+            "export_btn": "\u672c\u5730\u6d4b\u8bd5", 
+            "export_data": {}
+        }
+    ], 
+    "in": {
+        "svn": true, 
+        "path": "D:\\Project\\GNS\\Test\\\u5de5\u5177\u5f00\u53d1\\ExportToolGUI", 
+        "svn_account": "qinguifeng", 
+        "filter": [
+            ".py", 
+            ".txt"
+        ]
+    }
+}
